@@ -4,5 +4,7 @@
 ## 使い方
 
 '''
-git clone https://github.com/YGlacier/B02_DialogSystem
+
+git clone https://github.com/YGlacier/B02_DialogueSystem.git
+
 '''
