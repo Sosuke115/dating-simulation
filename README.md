@@ -4,6 +4,7 @@
 ## 使い方
 
 ~~~
+$ pip3 install pygame
 $ git clone https://github.com/YGlacier/B02_DialogueSystem.git
 $ cd B02_DialogueSystem/dialogue-demo
 $ ./dialogue-demo.sh
