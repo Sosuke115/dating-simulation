@@ -18,7 +18,7 @@ $ ./dialogue-demo.sh
 
 ## demo
 
-[![ゲーム画面](https://github.com/Sosuke115/dating-simulation/blob/master/demo.png "サンプル")
+![ゲーム画面](https://github.com/Sosuke115/dating-simulation/blob/master/demo.png "サンプル")
 
 ## Author
 
