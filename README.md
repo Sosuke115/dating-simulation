@@ -16,11 +16,11 @@ $ cd B02_DialogueSystem/dialogue-demo
 $ ./dialogue-demo.sh
 ```
 
-## demo
+# Game Image
 
 ![ゲーム画面](https://github.com/Sosuke115/dating-simulation/blob/master/demo.png "サンプル")
 
-## Author
+# Author
 
 東京大学工学部　電子情報工学科  
-実験者：西川荘介、于天帥、林裕嵩、久光祥平
+西川荘介、于天帥、林裕嵩、久光祥平
