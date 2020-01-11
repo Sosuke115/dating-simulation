@@ -22,5 +22,6 @@ $ ./dialogue-demo.sh
 
 # Author
 
-東京大学工学部　電子情報工学科  
-西川荘介、于天帥、林裕嵩、久光祥平
+* Sosuke
+* Twitter : https://twitter.com/ponyo_ponyo115
+共同実験者:于天帥、林裕嵩、久光祥平
