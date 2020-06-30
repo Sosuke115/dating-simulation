@@ -21,6 +21,9 @@ $ ./dialogue-demo.sh
 
 ![ゲーム画面](https://github.com/Sosuke115/dating-simulation/blob/master/demo.png "サンプル")
 
+# Game Introduction
+https://github.com/Sosuke115/dating-simulation/blob/master/introduction.pdf
+
 # Author
 
 * Sosuke
